@@ -1,0 +1,17 @@
+{
+  "name": "practice-1",
+  "version": "1.0.0",
+  "description": "Для практики 1 вам не потрібно завантажувати код, окрім, якщо ви виконуєте додаткове завдання на бонусні бали.  Але ви все одно можете зберігти код всіх лад в цій папці для зручності.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@solana-developers/helpers": "^2.4.0",
+    "@solana/web3.js": "^1.95.2",
+    "esrun": "^3.2.26"
+  }
+}
